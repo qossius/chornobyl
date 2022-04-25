@@ -1667,7 +1667,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .entries .item-entry__date {
   font-size: 1.3rem;
-  text-transform: uppercase;
   letter-spacing: .2rem;
   position: absolute;
   left: 50%;
